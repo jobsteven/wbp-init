@@ -1,0 +1,25 @@
+{
+  "name": "wbp-init",
+  "version": "1.0.0",
+  "description": "a wbp plugin used to initialize or scaffold typical projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexWang1987/wbp-init.git"
+  },
+  "keywords": [
+    "wbp",
+    "initializer",
+    "scaffold"
+  ],
+  "author": "AlexWang <1669499355@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexWang1987/wbp-init/issues"
+  },
+  "homepage": "https://github.com/AlexWang1987/wbp-init#readme"
+}
+
