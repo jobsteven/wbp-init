@@ -1,6 +1,6 @@
 {
   "name": "wbp-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a wbp plugin used to initialize or scaffold typical projects.",
   "main": "index.js",
   "scripts": {
@@ -25,4 +25,3 @@
     "promisify-bash": "^1.0.4"
   }
 }
-
