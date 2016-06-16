@@ -20,6 +20,9 @@
   "bugs": {
     "url": "https://github.com/AlexWang1987/wbp-init/issues"
   },
-  "homepage": "https://github.com/AlexWang1987/wbp-init#readme"
+  "homepage": "https://github.com/AlexWang1987/wbp-init#readme",
+  "dependencies": {
+    "promisify-bash": "^1.0.4"
+  }
 }
 
