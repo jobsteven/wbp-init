@@ -22,6 +22,12 @@
   },
   "homepage": "https://github.com/AlexWang1987/wbp-init#readme",
   "dependencies": {
-    "promisify-bash": "^1.0.4"
-  }
+    "inquirer": "^1.0.3",
+    "promisify-fs": "^1.0.27"
+  },
+  "wbp_init_projects": [{
+    "name": "UMD",
+    "desc": "Javascript UMD Library"
+  }]
 }
+
