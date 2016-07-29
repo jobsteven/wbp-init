@@ -1,6 +1,6 @@
 {
   "name": "wbp-init",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a wbp plugin used to initialize or scaffold typical projects.",
   "main": "index.js",
   "scripts": {
@@ -25,9 +25,10 @@
     "inquirer": "^1.0.3",
     "promisify-fs": "^1.0.27"
   },
-  "wbp_init_projects": [{
-    "name": "UMD",
-    "desc": "Javascript UMD Library"
-  }]
+  "wbp_init_projects": [
+    {
+      "name": "UMD",
+      "desc": "Javascript UMD Library"
+    }
+  ]
 }
-
