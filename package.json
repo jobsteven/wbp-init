@@ -1,6 +1,6 @@
 {
   "name": "wbp-init",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a wbp plugin used to initialize or scaffold typical projects.",
   "main": "index.js",
   "scripts": {
